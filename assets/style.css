@@ -3,4 +3,8 @@ body {
     background-size: auto;
 }
 
+#bio-image {
+    height: 400px;
+    width: 400px;
+}
   
