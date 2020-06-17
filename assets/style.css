@@ -5,7 +5,7 @@ body {
 
 #bio-image {
     height: 400px;
-    width: 400px;
+    width: 450px;
 }
 
 .bio {
@@ -39,5 +39,9 @@ body {
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
+}
+
+footer {
+    border-top: rgb(61, 177, 198) 10px;
 }
   
